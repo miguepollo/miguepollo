@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miguepollo
+- 👋 Hi, I’m miguepollo
 - 🌱 I’m currently learning python , svelte and C
 - 📫 How to reach me miguelgarciapel@gmail.com
 
