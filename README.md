@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Miguepollo
-- 🌱 I’m currently learning python , svelte and C
+- 👋 Hi, I’m Miguepollo.
+- 🌱 I’m currently learning C.
 - 📫 How to reach me: miguelgarciapel@gmail.com or miguelgarciapel@protonmail.com
