@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Miguepollo.
 - 🌱 I’m currently learning C.
 - 📫 How to reach me: miguelgarciapel@gmail.com or miguelgarciapel@protonmail.com
+- 😀 Currently working on improve sharandac's MY_TTGO_WATCH with t-watch-s3.
