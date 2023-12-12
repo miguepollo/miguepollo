@@ -4,9 +4,6 @@
 - 😀 Currently working on improve sharandac's MY_TTGO_WATCH with t-watch-s3.
 
 
-# My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor
-
-
 
 
 [![Miguepollo's GitHub  stats](https://github-readme-stats.vercel.app/api?username=miguepollo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
